@@ -718,8 +718,8 @@ entry {
   border-color: shade(mix(#eadcd9,#222222,0.2),0.8);
   padding: 3px;
   color: #222222;
-  caret-color: #f7f7f7;
-  -gtk-secondary-caret-color: #f7f7f7; }
+  caret-color: #000000;
+  -gtk-secondary-caret-color: #000000; }
   entry:focus, entry:hover {
     border-color: mix(#575757,mix(#eadcd9,#222222,0.2),0.3); }
   entry:active, entry:active:hover, entry:active:focus, entry:active:hover:focus, entry:checked, entry:checked:hover, entry:checked:focus, entry:checked:hover:focus {
@@ -3266,8 +3266,8 @@ menuitem entry {
   border-color: shade(mix(#e5d8d4,#222222,0.2),0.8);
   padding: 3px;
   color: #222222;
-  caret-color: #f7f7f7;
-  -gtk-secondary-caret-color: #f7f7f7; }
+  caret-color: #000000;
+  -gtk-secondary-caret-color: #000000; }
   menuitem entry:focus, menuitem entry:hover {
     border-color: mix(#575757,mix(#e5d8d4,#222222,0.2),0.3); }
   menuitem entry:active, menuitem entry:active:hover, menuitem entry:active:focus, menuitem entry:active:hover:focus, menuitem entry:checked, menuitem entry:checked:hover, menuitem entry:checked:focus, menuitem entry:checked:hover:focus {
@@ -3351,8 +3351,8 @@ popover.background {
     border-color: shade(mix(#eadcd9,#222222,0.2),0.8);
     padding: 3px;
     color: #222222;
-    caret-color: #f7f7f7;
-    -gtk-secondary-caret-color: #f7f7f7; }
+    caret-color: #000000;
+    -gtk-secondary-caret-color: #000000; }
     popover.background entry:focus, popover.background entry:hover {
       border-color: mix(#575757,mix(#eadcd9,#222222,0.2),0.3); }
     popover.background entry:active, popover.background entry:active:hover, popover.background entry:active:focus, popover.background entry:active:hover:focus, popover.background entry:checked, popover.background entry:checked:hover, popover.background entry:checked:focus, popover.background entry:checked:hover:focus {
@@ -4676,8 +4676,8 @@ progressbar.osd {
     border-color: shade(mix(#e5d8d4,#222222,0.2),0.8);
     padding: 3px;
     color: #222222;
-    caret-color: #f7f7f7;
-    -gtk-secondary-caret-color: #f7f7f7; }
+    caret-color: #000000;
+    -gtk-secondary-caret-color: #000000; }
     .osd entry:focus, .osd entry:hover,
     #XfceNotifyWindow entry:focus,
     #XfceNotifyWindow entry:hover {
@@ -6250,8 +6250,8 @@ iconview text,
 textview text {
   color: #222222;
   background-color: #eadcd9;
-  caret-color: #f7f7f7;
-  -gtk-secondary-caret-color: #f7f7f7; }
+  caret-color: #000000;
+  -gtk-secondary-caret-color: #000000; }
   .view:backdrop, iconview:backdrop,
   .view text:backdrop,
   iconview text:backdrop,
@@ -7373,8 +7373,8 @@ SheetStyleDialog.unity-force-quit {
   border-color: shade(mix(#e5d8d4,#222222,0.2),0.8);
   padding: 3px;
   color: #222222;
-  caret-color: #f7f7f7;
-  -gtk-secondary-caret-color: #f7f7f7; }
+  caret-color: #000000;
+  -gtk-secondary-caret-color: #000000; }
   #login_window entry:focus, #login_window entry:hover {
     border-color: mix(#575757,mix(#e5d8d4,#222222,0.2),0.3); }
   #login_window entry:active, #login_window entry:active:hover, #login_window entry:active:focus, #login_window entry:active:hover:focus, #login_window entry:checked, #login_window entry:checked:hover, #login_window entry:checked:focus, #login_window entry:checked:hover:focus {
