@@ -1,13 +1,13 @@
 #XfceNotifyWindow {
     background-color: #eadcd9;
     border-radius: 1px;
-    border: 1px solid #808080;
+    border: 3px solid #eadcd9;
     padding: 20px;
 }
 
 #XfceNotifyWindow:hover {
     background-color: shade(#eadcd9, 1.05);
-    border: 1px solid #53a0b3;
+    border: 3px solid #53a0b3;
 }
 
 #XfceNotifyWindow label,
