@@ -49,8 +49,8 @@
 
 #XfceNotifyWindow progressbar trough {
     background-image: linear-gradient(to bottom,
-                                      shade(#999999, 1.0),
-                                      shade(#999999, 1.0)
+                                      shade(#121212, 1.0),
+                                      shade(#121212, 1.0)
                                       );
     border: 0px solid shade(#ffff00, 1.0);
     border-radius: 0px;
