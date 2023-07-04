@@ -31,7 +31,7 @@
 #XfceNotifyWindow button:hover {
     box-shadow: none;
     background-image: none;
-    background-color: shade(#373737, .85);
+    background-color: shade(#222222, .85);
     color: #ffffff;
 }
 
