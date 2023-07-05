@@ -6,7 +6,7 @@
 }
 
 #XfceNotifyWindow:hover {
-    background-color: shade(#373737, 1.05);
+    background-color: shade(#373737, 1.15);
     border: 6px solid #373737;
 }
 
